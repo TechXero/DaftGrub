@@ -2,9 +2,9 @@
 
 # general settings
  title-text: ""
- title-color: "#c47dab"
+ title-color: "#8d4574"
  message-font: "DejaVu Sans Regular 14"
- message-color: "#15a0bc"
+ message-color: "#386b90"
  message-bg-color: "#808080"
  desktop-image: "background.png"
  desktop-color: "#808080"
@@ -18,9 +18,9 @@
     top = 20%
     height = 45%	
     item_font = "DroidLogo Regular 16"
-    item_color = "#30c6fb"
+    item_color = "#386b90"
     selected_item_font = "DroidLogo Regular 16"
-    selected_item_color = "#c47dab"
+    selected_item_color = "#8d4574"
     icon_width = 16
     icon_height = 16
     item_height = 33
