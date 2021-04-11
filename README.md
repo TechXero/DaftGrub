@@ -1,6 +1,6 @@
 # DaftPunk Grub Theme
 
-![DaftPunk](https://i.imgur.com/2ReFnGp.png)
+![DaftPunk](https://i.imgur.com/kOHZXLe.png)
 
 This is where DaftPunk Grub Theme will be. Constantly updated so keep coming back. I included a script that makes installing much easier, just follow steps below :<br />
 
