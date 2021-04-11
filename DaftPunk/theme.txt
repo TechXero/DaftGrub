@@ -13,7 +13,7 @@
 
 # boot menu
 + boot_menu {
-    left = 20%
+    left = 16%
     width = 50%
     top = 20%
     height = 45%	
@@ -43,5 +43,3 @@
   border_color = "#31363b"
   highlight_style = "progress_highlight_*.png"
 }
-
-
